@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Цвета для кнопок -->
+    <color name="button_default">#FF3700B3</color>
+    <color name="button_correct">#FF4CAF50</color>
+    <color name="button_wrong">#FFF44336</color>
+    <color name="next_button">#FF2196F3</color>
+
+    <!-- Цвета для таймера -->
+    <color name="timer_normal">#FFFFFFFF</color>
+    <color name="timer_warning">#FFFFC107</color>
+    <color name="timer_danger">#FFF44336</color>
+</resources>
